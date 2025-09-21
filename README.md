@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @icodeologist
-- 👀 I’m interested in web development(backend)
-- 🌱 I’m currently learning web programming with python
-- 💞️ I’m looking to collaborate on any projects that willl help me to learn more
-- 📫 How to reach me denzilpinto22@gmail.com \ denzilpinto01@gmail.com
+- I like arch and you should too.
+- Self-taught wait aren't everyone self-taught?
+- Likes to show off my ricing to my friends. They think I work at NASA. Im still unemployed
+- Terrible english but great humour.
+- Hit me up @denzilpinto22@gmail.com
 
 <!---
 icodeologist/icodeologist is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
