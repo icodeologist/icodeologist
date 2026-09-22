@@ -2,7 +2,7 @@
 
 # 3dubber
 
-### backend & systems engineer · linux tinkerer · builder with AI
+### freelance software engineer · backend & systems · linux tinkerer · builder with AI
 
 <p>
   <a href="https://github.com/icodeologist"><img src="https://img.shields.io/badge/GitHub-icodeologist-111111?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
@@ -20,11 +20,11 @@
 
 ## `$ whoami`
 
-I’m **Denzil** — a self-taught developer who likes to learn in public, build from first principles, and make computers feel a little more like home.
+I’m **Denzil** — a freelance software engineer and self-taught developer who likes to learn in public, build from first principles, and make computers feel a little more like home.
 
 My happy place is somewhere between a terminal, a system diagram, and a stubborn problem that refuses to be solved on the first try. I work mostly around **backend systems, infrastructure, Linux, and developer tooling**, and I’m increasingly exploring what becomes possible when you build *with* AI instead of merely using it.
 
-I’m also the person who spends too long ricing a desktop, then shows it to friends until they think I work at NASA. The interface may be dramatic. The code behind it should still be useful.
+I care about the kind of software that earns trust quietly: clear enough to understand, sturdy enough to depend on, and thoughtful enough to leave in someone else’s hands.
 
 <div align="center">
 
@@ -113,13 +113,20 @@ Users post a report, the system finds people nearby, and notification workers de
 
 </div>
 
-## A little more human
+## Some things I return to
 
-- I like Arch Linux and I think you should at least try it once.
-- I’m self-taught—which mostly means I’m permanently curious and very comfortable reading documentation.
-- I enjoy good teamwork: clear communication, shared ownership, and making the people around me better.
-- My English is a work in progress. My humour is not.
-- I’m currently looking for interesting problems, kind collaborators, and reasons to keep building.
+> “The impediment to action advances action. What stands in the way becomes the way.”<br>
+> — Marcus Aurelius
+
+That idea has stayed with me. Most of the useful things I’ve learned came from staying with a problem a little longer: reading the documentation, tracing the failure, asking a better question, and trying again.
+
+I like the directness of David Goggins’ **“Stay hard.”** Not as a performance, but as a reminder to keep showing up when the work is repetitive, uncertain, or nobody is watching.
+
+I find the same feeling in anime: long arcs, imperfect people, and progress that only becomes visible in retrospect. The story is rarely about being gifted. It is about continuing long enough to become capable.
+
+Away from code, I solve Rubik’s cubes and play chess. Both are small ways of practicing the same thing I value in engineering: look closely, stay calm, and make the next good move.
+
+I like Arch Linux, good teamwork, and people who are willing to share what they know. I’m always open to interesting problems, thoughtful collaborators, and work that is worth doing well.
 
 ## Let’s talk
 
