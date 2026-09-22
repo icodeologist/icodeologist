@@ -20,7 +20,7 @@
 
 ## `$ whoami`
 
-I’m **Denzil** — a freelance software engineer and self-taught developer who likes to learn in public, build from first principles, and make computers feel a little more like home.
+Hey, I’m **Denzil**. I love solving problems, so I chose software engineering, chess, and speedcubing—three different ways of looking closely, finding patterns, and making the next good move.
 
 My happy place is somewhere between a terminal, a system diagram, and a stubborn problem that refuses to be solved on the first try. I work mostly around **backend systems, infrastructure, Linux, and developer tooling**, and I’m increasingly exploring what becomes possible when you build *with* AI instead of merely using it.
 
@@ -59,6 +59,20 @@ I care about the kind of software that earns trust quietly: clear enough to unde
     </td>
   </tr>
 </table>
+
+## Tech I work with
+
+<div align="center">
+
+### `Go` is home base
+
+`Go` · `PostgreSQL` · `Docker` · `Linux` · `Git` · `REST APIs` · `Gin` · `GORM`
+
+</div>
+
+I’m strongest in **Go**—especially when the work involves backend services, concurrency, workers, APIs, or systems that need to stay understandable under pressure. Around that, I work with PostgreSQL, Docker, Linux, Git, and the everyday tools that help a service get from a good idea to something dependable.
+
+I care less about collecting technologies and more about knowing why they belong in a system. The stack should serve the problem.
 
 ## Things I’m building toward
 
@@ -112,19 +126,6 @@ Users post a report, the system finds people nearby, and notification workers de
 `How does it work?` · `Where does it break?` · `Can I make it simpler?` · `What can I learn from this?`
 
 </div>
-
-## Some things I return to
-
-> “The impediment to action advances action. What stands in the way becomes the way.”<br>
-> — Marcus Aurelius
-
-That idea has stayed with me. Most of the useful things I’ve learned came from staying with a problem a little longer: reading the documentation, tracing the failure, asking a better question, and trying again.
-
-I like the directness of David Goggins’ **“Stay hard.”** Not as a performance, but as a reminder to keep showing up when the work is repetitive, uncertain, or nobody is watching.
-
-I find the same feeling in anime: long arcs, imperfect people, and progress that only becomes visible in retrospect. The story is rarely about being gifted. It is about continuing long enough to become capable.
-
-Away from code, I solve Rubik’s cubes and play chess. Both are small ways of practicing the same thing I value in engineering: look closely, stay calm, and make the next good move.
 
 I like Arch Linux, good teamwork, and people who are willing to share what they know. I’m always open to interesting problems, thoughtful collaborators, and work that is worth doing well.
 
