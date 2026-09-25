@@ -1,6 +1,6 @@
 <div align="center">
 
-# 3dubber
+# Yoooo
 
 ### freelance software engineer · backend & systems · linux tinkerer · builder with AI
 
